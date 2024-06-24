@@ -1,2 +1,3 @@
 # test
 manual
+automation
